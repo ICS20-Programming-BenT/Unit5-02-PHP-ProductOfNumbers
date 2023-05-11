@@ -52,7 +52,7 @@
         <input type="number" step="1" id="first-number" placeholder="An integer..." name="first-number"><br><br>
         <label for="second-number">Enter another integer:</label>
         <input type="number" step="1" id="second-number" placeholder="Another integer..." name="second-number"><br><br>
-        <input type="submit" id="button" value="Submit Your Numbers!" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored">
+        <input type="submit" id="button" value="Calculate Product!" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored">
       </form>
       <br>
       
