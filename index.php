@@ -43,7 +43,7 @@
       <br><br>
 
       <!-- Body text -->
-      <?php echo "<p>Welcome to this is product of numbers web page! Please input any integers and their product will be calculated.</p>" ?>
+      <?php echo "<p>Welcome to this product of numbers web page! Please input any integers and their product will be calculated.</p>" ?>
       <?php echo "<h3>Your Input:</h3>" ?>
        
       <!-- Form for user input -->
